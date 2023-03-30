@@ -1,9 +1,13 @@
 const answers = [
 	"No",
-	"No",
-	"No",
 	"Ask again later",
 	"Reply hazy try again",
+	"Concentrate and ask again",
+	"Don't count on it",
+	"My reply is no",
+	"My sources say no",
+	"Outlook not so good",
+	"Very doubtful",
 ];
 
 function randomAnswer()

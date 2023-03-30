@@ -1,16 +1,16 @@
 @media (max-width: 41em) {
 	#answer {
-		font-size: 5vmin;
+		font-size: 4vmin;
 	}
 }
 @media (min-width: 41em) {
 	#answer {
-		font-size: 2em;
+		font-size: 1.5em;
 	}
 }
 @supports (container-type: inline-size) {
 	#answer {
-		font-size: 4.5cqw;
+		font-size: 3.6cqw;
 	}
 }
 html {
@@ -93,9 +93,9 @@ body {
 }
 
 #polyhedron {
-	width: 86.6%;
-	height: 75%;
-	top: 10%;
+	width: 75%;
+	height: 65%;
+	top: 11%;
 	background-image: url(triangle.svg);
 	background-size: 100% 100%;
 	position: relative;
